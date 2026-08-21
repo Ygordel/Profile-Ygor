@@ -1,4 +1,7 @@
+
+
 👨‍🏫 Ygor Silva | Tecnologia • Redes • Educação
+#Ygor #Tecnologia #Redes #Educação
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redes-TCP%2FIP%20%7C%20IPv4%20%7C%20IPv6-0A66C2?style=for-the-badge" alt="Redes">
