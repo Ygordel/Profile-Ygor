@@ -186,22 +186,6 @@ Material prático para estudantes aprenderem:
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Principais linguagens">
-
-</p>
-
----
-
 ## 📫 Conecte-se comigo
 
 - 💻 **GitHub:** `https://github.com/Ygordel`
@@ -210,10 +194,6 @@ Material prático para estudantes aprenderem:
 - 🎓 **ORCID:** `https://orcid.org/my-orcid?orcid=0009-0005-9301-3613`
 - 📧 **E-mail profissional:** `leme.aprovacao@gmail.com`
 - 🚀 **Mentoria:** `https://lemeaprovacao-ux.github.io/Coach_mentoria/`
-
-- 
-# 🎯 Leme Aprovação | Mentoria em TI #Tecnologia #Redes #Segurança #Aprovação
-> 🚀 **Mentoria, orientação e preparação para quem quer transformar conhecimento em resultado.
 
 ---
 
