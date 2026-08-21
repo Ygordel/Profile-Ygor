@@ -1,4 +1,4 @@
-                                             👨‍🏫 Ygor Silva | Tecnologia • Redes • Educação
+                                                    Tecnologia • Redes • Educação
 
 
 <p align="center">
