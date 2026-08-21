@@ -43,6 +43,8 @@ Experiência com educação profissional e ensino de tecnologia, especialmente e
 - Infraestrutura
 - Informática
 - Tecnologia aplicada
+  
+---
 
 ## 🌐 Redes de Computadores
 
