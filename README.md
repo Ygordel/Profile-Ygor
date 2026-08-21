@@ -1,4 +1,3 @@
-                                                    Tecnologia • Redes • Educação
 
 
 <p align="center">
