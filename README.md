@@ -1,10 +1,6 @@
 👨‍🏫 Ygor Silva | Tecnologia • Redes • Educação
 
 <p align="center">
-  <b>Analista de Tecnologia da Informação • Professor de Informática • Redes • Telecomunicações • Segurança da Informação</b>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Redes-TCP%2FIP%20%7C%20IPv4%20%7C%20IPv6-0A66C2?style=for-the-badge" alt="Redes">
   <img src="https://img.shields.io/badge/Cisco-CCNA%20%7C%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/Linux-Infraestrutura-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
