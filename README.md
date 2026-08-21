@@ -1,4 +1,4 @@
-# Profile-Ygor# 👨‍🏫 Ygor Delfino da Silva | Tecnologia • Redes • Educação
+👨‍🏫 Ygor Silva | Tecnologia • Redes • Educação
 
 <p align="center">
   <img src="professor-redes.jpg" alt="Professor ensinando Redes de Computadores" width="900">
