@@ -30,6 +30,19 @@ Também tenho experiência como **Professor de Informática**, unindo conhecimen
 
 ---
 
+🏆 Certificações e Formação Complementar
+
+🌐 CCNA | Cisco Networking Academy
+🔐 Fortinet NSE 1, NSE 2 e NSE 3 | Cybersecurity
+🤖 Claude 101 | Anthropic
+📊 Scrum • Kanban • OKR
+📈 Six Sigma Yellow Belt
+💼 Business Analysis Fundamentals with AI
+
+🚀 Formação contínua em Redes, Segurança, Inteligência Artificial, Gestão e Processos.
+
+---
+
 ## 🌐 Redes de Computadores
 
 Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
