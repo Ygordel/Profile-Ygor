@@ -15,17 +15,17 @@
   <img src="https://img.shields.io/badge/Segurança%20da%20Informação-Especialização-2E7D32?style=for-the-badge" alt="Segurança">
 </p>
 
-## 🚀 #YgorDelfino #RedesNaPratica #TI #Infraestrutura #BoraParaPratica
+## 🚀 #YgorDelfino #RedesNaPratica #TI #Infraestrutura 
 
 ### 👋 Sobre mim
 
 Sou profissional de **Tecnologia da Informação**, com trajetória acadêmica e profissional construída nas áreas de **redes de computadores, infraestrutura, telecomunicações, segurança da informação, suporte técnico e educação profissional**.
 
-Atuo como **Analista Judiciário – Tecnologia da Informação**, trabalhando com serviços de telecomunicações, infraestrutura, conectividade, monitoramento e gestão de serviços de TI.
+Atuo como **Analista Judiciário – Tecnologia da Informação**, prestando serviços de telecomunicações, infraestrutura, conectividade, monitoramento e gestão de serviços de TI.
 
-Também tenho experiência como **Professor de Informática**, unindo conhecimento técnico e prática profissional para transformar conceitos de tecnologia em aprendizagem aplicada.
+Também tenho experiência como **Professor de Informática**, unindo conhecimento técnico e prática profissional para transformar conceitos tecnológicos em aprendizagem aplicada.
 
-Minha formação multidisciplinar reúne **Ciência da Computação, Informática, Análise de Sistemas e Direito**, além de especializações relacionadas à **Segurança da Informação, Computação/Perícia Forense e Direito Digital**.
+Minha formação multidisciplinar reúne **Ciência da Computação, Informática, Análise de Sistemas e Direito**, além de especializações em **Segurança da Informação, Computação/Perícia Forense e Direito Digital**.
 
 ---
 
@@ -42,7 +42,7 @@ Minha formação multidisciplinar reúne **Ciência da Computação, Informátic
 
 ## 💼 Experiência Profissional
 
-### 🏛️ Tribunal Regional do Trabalho da 1ª Região — TRT1
+### 🏛️ Tribunal Regional do Trabalho — TRT
 **Analista Judiciário – Tecnologia da Informação**
 
 Atuação em atividades relacionadas a:
@@ -153,7 +153,7 @@ Aplicações de interesse:
 
 ## 🤖 Tecnologia + Inteligência Artificial
 
-Uma das minhas linhas atuais de interesse é a aplicação de **Inteligência Artificial à infraestrutura de TI**.
+Uma das minhas linhas de interesse atuais é a aplicação de **Inteligência Artificial à infraestrutura de TI**.
 
 ### 🔎 Temas de interesse
 
@@ -189,7 +189,7 @@ TROUBLESHOOTING
 SOLUÇÃO
 ```
 
-Meu objetivo é contribuir para a formação de profissionais capazes de compreender não apenas **como configurar uma tecnologia**, mas principalmente **por que ela funciona e como solucionar problemas reais**.
+Meu objetivo é contribuir para a formação de profissionais capazes de compreender não apenas **como configurar uma tecnologia**, mas, principalmente, **por que ela funciona e como solucionar problemas reais**.
 
 ---
 
@@ -291,11 +291,16 @@ Material prático para estudantes aprenderem:
 
 ## 📫 Conecte-se comigo
 
-- 💻 **GitHub:** `https://github.com/SEU_USUARIO`
-- 💼 **LinkedIn:** `COLOCAR_LINK_DO_SEU_LINKEDIN`
-- 📚 **Currículo Lattes/CNPq:** `COLOCAR_LINK_DO_LATTES`
-- 🎓 **ORCID:** `COLOCAR_ORCID`
-- 📧 **E-mail profissional:** `COLOCAR_EMAIL`
+- 💻 **GitHub:** `https://github.com/Ygordel`
+- 💼 **LinkedIn:** `https://www.linkedin.com/in/ygor-s-ba691523/`
+- 📚 **Currículo Lattes/CNPq:** `http://lattes.cnpq.br/0712899486512514`
+- 🎓 **ORCID:** `https://orcid.org/my-orcid?orcid=0009-0005-9301-3613`
+- 📧 **E-mail profissional:** `leme.aprovacao@gmail.com`
+- 🚀 **Mentoria:** `https://lemeaprovacao-ux.github.io/Coach_mentoria/`
+
+- 
+# 🎯 Leme Aprovação | Mentoria em TI #Tecnologia #Redes #Segurança #Aprovação
+> 🚀 **Mentoria, orientação e preparação para quem quer transformar conhecimento em resultado.
 
 ---
 
