@@ -84,7 +84,7 @@ Atuação profissional também relacionada a:
 
 Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
 
-### Tecnologias e conceitos
+##Tecnologias e conceitos
 
 `TCP/IP` `IPv4` `IPv6` `Ethernet` `VLAN` `STP` `OSPF` `Routing` `Switching`
 
