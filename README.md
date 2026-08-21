@@ -17,8 +17,6 @@ Atuo como **Analista Judiciário – Tecnologia da Informação**, prestando ser
 
 Também tenho experiência como **Professor de Informática**, unindo conhecimento técnico e prática profissional para transformar conceitos tecnológicos em aprendizagem aplicada.
 
-Minha formação multidisciplinar reúne **Ciência da Computação, Informática, Análise de Sistemas e Direito**, além de especializações em **Segurança da Informação, Computação/Perícia Forense e Direito Digital**.
-
 ---
 
 ## 🎓 Formação Acadêmica
@@ -40,7 +38,7 @@ Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
 
 `MPLS` `SD-WAN` `WAN` `LAN` `VPN` `DNS` `DHCP` `NAT` `Firewall`
 
-`Cisco IOS` `Packet Tracer` `Zabbix` `SNMP` `NOC`
+`Cisco IOS` `Packet Tracer` `Zabbix` `SNMP` `PRTG` `NOC`
 
 ---
 
@@ -66,7 +64,6 @@ Aplicações de interesse:
 - Processamento de dados
 
 ---
-
 ## 🤖 Tecnologia + Inteligência Artificial
 
 Uma das minhas linhas de interesse atuais é a aplicação de **Inteligência Artificial à infraestrutura de TI**.
