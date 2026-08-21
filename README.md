@@ -40,22 +40,6 @@ Minha formação multidisciplinar reúne **Ciência da Computação, Informátic
 
 ---
 
-## 💼 Experiência Profissional
-
-### 🏛️ Tribunal Regional do Trabalho — TRT
-**Analista Judiciário – Tecnologia da Informação**
-
-Atuação em atividades relacionadas a:
-
-- 📡 Telecomunicações e conectividade
-- 🌐 Redes corporativas
-- 🔄 SD-WAN e MPLS
-- 📊 Monitoramento de serviços
-- 📈 Indicadores de disponibilidade e SLA
-- 🧩 Gestão e acompanhamento de serviços de TI
-- 🛠️ Troubleshooting e infraestrutura
-- 📑 Gestão técnica de contratos e serviços
-
 ### 🏫 FAETEC
 **Professor de Informática**
 
@@ -67,24 +51,9 @@ Experiência com educação profissional e ensino de tecnologia, especialmente e
 - Informática
 - Tecnologia aplicada
 
-### 💻 Experiências anteriores
-
-Atuação profissional também relacionada a:
-
-- Análise de redes
-- Suporte e infraestrutura
-- Administração de ambientes de TI
-- Telecomunicações
-- Atendimento técnico
-- Educação em Informática
-
----
-
 ## 🌐 Redes de Computadores
 
 Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
-
-##Tecnologias e conceitos
 
 `TCP/IP` `IPv4` `IPv6` `Ethernet` `VLAN` `STP` `OSPF` `Routing` `Switching`
 
@@ -113,7 +82,6 @@ Experiência e interesse em construção de soluções para acompanhamento de re
 ### 📊 Ideia central
 
 > **Transformar dados de infraestrutura em informação para tomada de decisão.**
-
 ---
 
 ## 🔐 Segurança da Informação
