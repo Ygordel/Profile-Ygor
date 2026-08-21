@@ -1,10 +1,6 @@
 👨‍🏫 Ygor Silva | Tecnologia • Redes • Educação
 
 <p align="center">
-  <img src="professor-redes.jpg" alt="Professor ensinando Redes de Computadores" width="900">
-</p>
-
-<p align="center">
   <b>Analista de Tecnologia da Informação • Professor de Informática • Redes • Telecomunicações • Segurança da Informação</b>
 </p>
 
@@ -15,7 +11,7 @@
   <img src="https://img.shields.io/badge/Segurança%20da%20Informação-Especialização-2E7D32?style=for-the-badge" alt="Segurança">
 </p>
 
-## 🚀 #YgorDelfino #RedesNaPratica #TI #Infraestrutura 
+## 🚀 #RedesNaPratica #TI #Infraestrutura 
 
 ### 👋 Sobre mim
 
@@ -63,42 +59,9 @@ Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
 
 ---
 
-## 📊 Monitoramento e NOC
-
-Experiência e interesse em construção de soluções para acompanhamento de redes e serviços:
-
-- 📡 Zabbix
-- 📊 Grafana
-- 📈 Power BI
-- 🔎 SNMP
-- 🌐 Monitoramento de links IP/MPLS
-- ⚡ Disponibilidade de circuitos
-- 📉 Perda de pacotes
-- ⏱️ Latência
-- 📋 SLA
-- 🚨 Incidentes e indisponibilidade
-- 💰 Indicadores para gestão contratual
-
 ### 📊 Ideia central
 
 > **Transformar dados de infraestrutura em informação para tomada de decisão.**
----
-
-## 🔐 Segurança da Informação
-
-Interesse e formação nas áreas de:
-
-- Segurança de redes
-- Hardening
-- Firewalls
-- Controle de acesso
-- Segurança de infraestrutura
-- Monitoramento
-- Perícia forense
-- Direito Digital
-- Proteção de dados
-- Segurança cibernética
-
 ---
 
 ## 🐍 Automação e Dados
@@ -180,20 +143,6 @@ Alguns dos ambientes e tecnologias utilizados nos estudos:
 - SNMP
 - SD-WAN
 - MPLS
-
----
-
-## 📚 Estudos atuais
-
-- 🌐 Redes Cisco e CCNA
-- 🔐 Segurança da Informação
-- 🛡️ FortiGate e Firewalls
-- 📡 Telecomunicações
-- 📊 Zabbix e observabilidade
-- 🤖 Inteligência Artificial aplicada à TI
-- 🐍 Python para automação
-- ⚖️ Direito Digital
-- 🧠 Ciência de Dados
 
 ---
 
