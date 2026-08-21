@@ -33,19 +33,6 @@ Minha formação multidisciplinar reúne **Ciência da Computação, Informátic
 
 ---
 
-### 🏫 FAETEC
-**Professor de Informática**
-
-Experiência com educação profissional e ensino de tecnologia, especialmente em:
-
-- Redes de computadores
-- Sistemas operacionais
-- Infraestrutura
-- Informática
-- Tecnologia aplicada
-  
----
-
 ## 🌐 Redes de Computadores
 
 Meu principal eixo técnico é a infraestrutura de redes e telecomunicações.
